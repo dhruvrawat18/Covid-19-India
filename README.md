@@ -4,8 +4,8 @@ Flutter application to track the number of covid-19 cases in India with a neat c
 The idea behind this application is to displays the statistics of Coronavirus COVID-19 in the :india:India and the data are being collected from [https://api.covid19india.org/](https://api.covid19india.org/) and it updates the cases constantly on this app in the India.  
 
 ## Samples:
-<img src="dashboard.jpg" width="30%" height="30%">  <img src="districtstats.jpg" width="30%" height="30%">
-<img src="statestats.jpg" width="30%" height="30%">   <img src="news.jpg" width="30%" height="30%">
+<img src="dashboard.png" width="30%" height="30%">             <img src="districtstats.png" width="30%" height="30%">
+<img src="statestats.png" width="30%" height="30%">            <img src="news.png" width="30%" height="30%">
 
 
 
